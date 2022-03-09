@@ -1,0 +1,143 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Rice",
+      "description": "This is it—the foolproof recipe for making perfect rice on the stove. If cooking rice makes you nervous, know that you are not alone.",
+      "url": "https://d47gxy3fatgwk.cloudfront.net/wp-content/uploads/2015/08/rice-in-bowl-horiz-with-spoon-copy-768x768.jpg.webp",
+      "ingredients": [
+        "1 cup long-grain white rice",
+        "2 cups water",
+        "1/2 teaspoon salt",
+        "1 tablespoon butter, optional",
+        "1 tablespoon chopped parsley, optional"
+      ],
+      "directions": [
+        "Gather the ingredients.",
+        "Rinse the rice until the water runs clear. Drain in a colander and set aside.",
+        "In a medium saucepan, bring the 2 cups of water to a boil. Add the salt, stir, and then add the rinsed and drained rice. Stir with a fork.",
+        "Reduce the heat, cover the rice, and let it simmer for 20 minutes. Check it after 15 minutes to see if all the water has evaporated. If it has, the rice is ready. If not, replace the lid and let the rice simmer an additional 5 minutes.",
+        "Remove from the heat, fluff with a fork, and transfer into a serving dish. You can also stir in 1 tablespoon of butter or add chopped parsley or other herbs to the pot before serving. Enjoy."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bean stew",
+      "description": "Make these hearty bean stews for a warming, high-protein supper, with classics like sausage casseroles, spicy Mexican-style dishes and vegetarian options. ",
+      "url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/6/9/0/NY0205_Barbeque-Baked-Beans2.jpg.rend.hgtvcom.616.462.suffix/1371587677165.jpeg",
+      "ingredients": [
+        "200g cooking chorizo",
+        "2 x 400g cans chopped tomatoes",
+        "2 x 400g cans drained butter beans",
+        "1 tub fresh pesto"
+      ],
+      "directions": [
+        "Slice the chorizo and tip into a large saucepan over a medium heat.",
+        "Fry gently for 5 mins or until starting to turn dark brown.",
+        "Add the tomatoes and butter beans, bring to the boil, then simmer for 10 mins.",
+        "Swirl through the pesto, season lightly and ladle into four bowls."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Baked potato",
+      "description": "This hearty meat and potato dish can be made using ingredients you probably already have in your pantry.",
+      "url": "https://www.comidaereceitas.com.br/wp-content/uploads/2020/05/pocket_potato.jpg",
+      "ingredients": [
+        "1 medium baking potato",
+        "1 teaspoon olive oil",
+        "½ teaspoon salt",
+        "2 teaspoons butter",
+        "1 pinch freshly ground black pepper",
+        "¼ cup shredded Cheddar cheese"
+      ],
+      "directions": [
+        "Preheat the oven to 300 degrees F (150 degrees C). Scrub the potato, and pierce the skin several times with a knife or fork. Rub the skin with olive oil, then with salt.",
+        "Place the potato in the preheated oven, and bake for 90 minutes, or until slightly soft and golden brown. Slice the potato down the center, and serve with butter and black pepper. Sprinkle shredded Cheddar cheese over the top, if desired."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Spaghetti Bolognese",
+      "description": "Delicious pasta dishes from classic spaghetti Bolognese to lasagne and linguine.",
+      "url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/puttanesca-cfb4e42.jpg",
+      "ingredients": [
+        "1 tbsp olive oil",
+        "4 rashers smoked streaky bacon, finely chopped",
+        "2 medium onions, finely chopped",
+        "2 carrots, trimmed and finely chopped",
+        "2 celery sticks, finely chopped",
+        "2 garlic cloves finely chopped",
+        "2-3 sprigs rosemary leaves picked and finely chopped",
+        "500g beef mince",
+        "For the bolognese sauce",
+        "2 x 400g tins plum tomatoes",
+        "small pack basil leaves picked, ¾ finely chopped and the rest left whole for garnish",
+        "1 tsp dried oregano",
+        "2 fresh bay leaves",
+        "2 tbsp tomato purée",
+        "1 beef stock cube",
+        "1 red chilli deseeded and finely chopped (optional)",
+        "125ml red wine",
+        "6 cherry tomatoes sliced in half",
+        "To season and serve",
+        "75g parmesan grated, plus extra to serve",
+        "400g spaghetti",
+        "crusty bread to serve (optional)"
+      ],
+      "directions": [
+        "Put a large saucepan on a medium heat and add 1 tbsp olive oil.",
+        "Add 4 finely chopped bacon rashers and fry for 10 mins until golden and crisp.",
+        "Reduce the heat and add the 2 onions, 2 carrots, 2 celery sticks, 2 garlic cloves and the leaves from 2-3 sprigs rosemary, all finely chopped, then fry for 10 mins. Stir the veg often until it softens.",
+        "Increase the heat to medium-high, add 500g beef mince and cook stirring for 3-4 mins until the meat is browned all over.",
+        "Add 2 tins plum tomatoes, the finely chopped leaves from ¾ small pack basil, 1 tsp dried oregano, 2 bay leaves, 2 tbsp tomato purée, 1 beef stock cube, 1 deseeded and finely chopped red chilli (if using), 125ml red wine and 6 halved cherry tomatoes. Stir with a wooden spoon, breaking up the plum tomatoes.",
+        "Bring to the boil, reduce to a gentle simmer and cover with a lid. Cook for 1 hr 15 mins stirring occasionally, until you have a rich, thick sauce.",
+        "Add the 75g grated parmesan, check the seasoning and stir.",
+        "When the bolognese is nearly finished, cook 400g spaghetti following the pack instructions.",
+        "Drain the spaghetti and either stir into the bolognese sauce, or serve the sauce on top. Serve with more grated parmesan, the remaining basil leaves and crusty bread, if you like."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Best Grilled Cheese Sandwich",
+      "description": "When you want a quick and easy meal, there’s nothing better than sandwich recipes!",
+      "url": "https://pt.petitchef.com/imgupl/recipe/club-sandwich-club-sanduiche-com-ovo--lg-453178p702004.jpg",
+      "ingredients": [
+        "4 slices white bread",
+        "3 tablespoons butter, divided",
+        "2 slices Cheddar cheese"
+      ],
+      "directions": [
+        "Preheat skillet over medium heat. Generously butter one side of a slice of bread. Place bread butter-side-down onto skillet bottom and add 1 slice of cheese. Butter a second slice of bread on one side and place butter-side-up on top of sandwich. Grill until lightly browned and flip over; continue grilling until cheese is melted. Repeat with remaining 2 slices of bread, butter and slice of cheese."
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Burrito",
+      "description": "Do you love Chipotle, but you're tired of paying for carry-out? This is truly the easiest burrito recipe to make at home -- and they're freezer-friendly!",
+      "url": "https://moinhoglobo.com.br/wp-content/uploads/2016/07/38-burrito-scaled.jpeg",
+      "ingredients": [
+        "2 tbsp sunflower oil",
+        "1 onion, finely chopped",
+        "4 garlic cloves, very finely chopped",
+        "1 tbsp ground cumin",
+        "1 tbsp ground coriander",
+        "small pinch of cayenne pepper (more if you want it spicier)",
+        "1 tsp dried oregano",
+        "500g beef mince",
+        "pinch of golden caster sugar",
+        "1 tbsp wine vinegar or cider vinegar",
+        "400g can chopped tomatoes",
+        "400g can black beans or kidney beans, with the can water",
+        "8 flour or corn tortillas",
+        "500g cooked rice, or our Mexican tomato rice (see recipe below right)",
+        "a selection of sliced avocado or guacamole, chopped tomatoes, soured cream, shredded lettuce, sliced red onion, grated cheddar, sliced red chilli and lime halves, to serve"
+      ],
+      "directions": [
+        "Heat the oil in a large pan – a casserole is ideal. Fry the onions for 8 mins, then add the garlic, spices and oregano and cook for 1 min. Crumble over the mince and sizzle for 5 mins, stirring, until browned. Stir in the sugar and leave for a minute, then splash in the vinegar and pour in the tomatoes.",
+        "Simmer for 5 mins then tip in the beans and the water from the can. Season, stir and simmer everything for 20 mins until the beef is in a thick gravy. The sauce can be prepared up to 2 days ahead, chilled and reheated with a splash of water or frozen for 6 months.",
+        "To make the burritos, heat the tortillas following pack instructions. Pile some rice and beef sauce along each tortilla and scatter over your choice of topping. Fold over the ends and roll up to seal. Secure by wrapping with foil if you want. Eat immediately."
+      ]
+    }
+  ]
+}
